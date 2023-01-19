@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### About me
+I am a microbiologist currently working as a postdoc in @schloss-lab at University of Michigan. In August 2023, I will join the faculty in the Biology Department at Syracuse University 🍊 as an Assistant Professor. I use computational and laboratory techniques to explore microbial and phage diversity in the human microbiome.
+
+I am also passionate about teaching and learning with [The Carpentries](https://carpentries.org/).
+
 <!--
 **sklucas/sklucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
